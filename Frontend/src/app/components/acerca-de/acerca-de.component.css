@@ -1,0 +1,32 @@
+.row{
+    padding-top: 20px;
+    margin: 15px;
+}
+
+#nombre{
+    padding-top: 15px;
+    font-weight:bold;
+    
+}
+
+@media screen and (min-width: 426px) {
+    #foto{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    left: 5px;
+    top: 366px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #foto{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        left: 22%;
+        top: 366px;
+    }
+}

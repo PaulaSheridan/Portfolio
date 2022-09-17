@@ -1,0 +1,22 @@
+.row{
+    padding-left: 50px;
+    margin: 15px;
+}
+
+#hard{
+    padding-top: 50px;
+}
+
+.circle-progress{
+    padding: 10px;
+    display: flex;
+}
+
+#soft{
+    padding-top: 50px;
+}
+
+h1{
+    padding-bottom: 20px;
+}
+

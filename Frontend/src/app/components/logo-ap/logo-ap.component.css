@@ -1,0 +1,32 @@
+#logoAp {
+    width: 150px;
+}
+
+.contenedor{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social img{
+    width: 40px;
+    padding-right: 5px;
+}
+
+/* para la vista desde movil*/
+
+@media screen and (max-width: 446px) {
+    .social img{
+        width: 28px;
+        padding-right: 3px;
+    }
+}
+
+/*
+@media screen and (max-width: 386px) {
+.social{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+      }
+}
+*/

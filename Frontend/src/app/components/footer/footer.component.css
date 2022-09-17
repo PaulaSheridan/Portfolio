@@ -1,0 +1,10 @@
+.row{
+    background-color: #424242;
+    text-align: center;
+}
+
+footer{
+    color: white;
+    padding-top:15px;
+    box-shadow: 2px -2px 5px whitesmoke;
+}
